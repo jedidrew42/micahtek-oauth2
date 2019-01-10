@@ -3,10 +3,10 @@
 /*
 Plugin Name: MicahTek Auth
 Description: Allows user registration and login by authenticating against MicahTek
-Plugin URI: https://verygoodplugins.com/
+Plugin URI: https://drewnorman.com/
 Version: 1.4
-Author: Very Good Plugins
-Author URI: https://verygoodplugins.com/
+Author: Drew Norman
+Author URI: https://drewnorman.com/
 */
 
 define( 'MT_CLIENT_ID', '1kvmhkgc99ayjsndsorfqlgfrdmns2wytkbafyh8wk9wwstiouygnktzkdkds88j' );
