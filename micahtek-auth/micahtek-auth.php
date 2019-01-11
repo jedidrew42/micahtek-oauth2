@@ -9,9 +9,6 @@ Author: Drew Norman
 Author URI: https://drewnorman.com/
 */
 
-define( 'MT_CLIENT_ID', '1kvmhkgc99ayjsndsorfqlgfrdmns2wytkbafyh8wk9wwstiouygnktzkdkds88j' );
-define( 'MT_CLIENT_SECRET', 'Tw5QSAV(.pEYJ+e/wx3Ge~R6am!A}FGD55vbJj{3PKR!yLg3NwkoRs<rwpW7oNkj' );
-
 final class MicahTek_Auth {
 
 	/** Singleton *************************************************************/
